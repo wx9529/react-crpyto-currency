@@ -1,3 +1,9 @@
+Crypto currency app using React
+
+Preview![Snipaste_2022-02-09_02-48-06](https://user-images.githubusercontent.com/90943037/153286050-6be0af9d-bd9f-45b6-b6b9-73cd9ccf771a.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
